@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="4K YouTube Video Downloader">
+  <rect width="1000" height="340" fill="#0f172a"/>
+  <rect x="0" y="0" width="12" height="340" fill="#e11d48"/>
+  <circle cx="880" cy="90" r="150" fill="#e11d48" opacity="0.08"/>
+  <circle cx="930" cy="250" r="90" fill="#e11d48" opacity="0.06"/>
+  <text x="60" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3" fill="#e11d48">MEDIA &amp; DOWNLOADS</text>
+  <text x="60" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc">4K YouTube Video</text><text x="60" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc">Downloader</text>
+  <text x="60" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#94a3b8">Download YouTube videos in 4K, 8K, and audio-only with a single command.</text>
+  <rect x="60" y="250" rx="13" ry="13" width="92" height="30" fill="#1e293b" stroke="#e11d48" stroke-width="1.2"/><text x="106" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">Windows</text><rect x="164" y="250" rx="13" ry="13" width="72" height="30" fill="#1e293b" stroke="#e11d48" stroke-width="1.2"/><text x="200" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">macOS</text><rect x="248" y="250" rx="13" ry="13" width="72" height="30" fill="#1e293b" stroke="#e11d48" stroke-width="1.2"/><text x="284" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">Linux</text>
+</svg>
